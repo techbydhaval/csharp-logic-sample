@@ -1,37 +1,42 @@
 # C# Logic Sample
 
-A collection of simple C# programs demonstrating common logical problems and algorithmic patterns. These examples are ideal for beginners looking to understand core programming concepts through hands-on examples.
+This repository contains a collection of basic C# programs demonstrating various logical and algorithmic solutions. It is intended for beginners or anyone looking to strengthen their problem-solving skills in C#.
 
-## 🧠 Topics Covered
+## Features
 
-- Loops and iterations
-- Recursion
-- Mathematical logic
-- String and number manipulations
-- Comparison between logic-based vs. built-in function-based approaches
+- Basic logic problems
+- Recursion and loop-based solutions
+- Math-based comparisons (e.g., custom vs. built-in methods)
+- Clean and beginner-friendly code
 
-## 📁 Project Structure
+## Folder Structure
 
-│
-├── Program.cs # Entry point for running logic examples
-├── LogicSamples/ # Contains various logical programs
-│ ├── Factorial.cs
-│ ├── Fibonacci.cs
-│ ├── Palindrome.cs
-│ ├── SquareRoot.cs
-│ └── ...and more
+csharp-logic-sample/
+├── Program.cs
+├── LogicSamples/
+│   ├── Factorial.cs
+│   ├── Fibonacci.cs
+│   ├── Palindrome.cs
+│   ├── SquareRoot.cs
+│   └── ...
 └── README.md
 
-## ✅ Requirements
+## Prerequisites
 
-- [.NET SDK 6.0+](https://dotnet.microsoft.com/en-us/download) installed
+- [.NET 6.0 SDK or newer](https://dotnet.microsoft.com/download)
 
-## ▶️ How to Run
+## Running the Code
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/techbydhaval/csharp-logic-sample.git
-   cd csharp-logic-sample
+1. Clone this repository:
 
-dotnet run
-  
+
+2. Build and run:
+
+
+## Contributing
+
+Feel free to fork the repository and add new logic samples. Pull requests are welcome!
+
+## License
+
+This project is licensed under the MIT License.
