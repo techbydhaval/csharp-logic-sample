@@ -1,0 +1,14 @@
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\bin\Debug\net8.0\LogicPractice.exe
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\bin\Debug\net8.0\LogicPractice.deps.json
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\bin\Debug\net8.0\LogicPractice.runtimeconfig.json
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\bin\Debug\net8.0\LogicPractice.dll
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\bin\Debug\net8.0\LogicPractice.pdb
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.AssemblyInfoInputs.cache
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.AssemblyInfo.cs
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.csproj.CoreCompileInputs.cache
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.dll
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\refint\LogicPractice.dll
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.pdb
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\LogicPractice.genruntimeconfig.cache
+C:\Users\DHAVAL-PC\source\repos\LogicPractice\LogicPractice\obj\Debug\net8.0\ref\LogicPractice.dll
